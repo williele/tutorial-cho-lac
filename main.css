@@ -1,0 +1,20 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box {
+  padding: 1rem;
+  /* border: 1px solid black; */
+  display: inline-block;
+  border-radius: 0.5em;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgba(115, 14, 155, 0.226);
+}
+
+h1 {
+  color: teal;
+}
+
+.red {
+  color: red;
+}
